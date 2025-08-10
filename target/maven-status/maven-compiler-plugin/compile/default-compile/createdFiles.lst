@@ -1,0 +1,3 @@
+com\example\j2eedemo\dao\PersonDAO.class
+com\example\j2eedemo\model\Person.class
+com\example\j2eedemo\servlet\PersonServlet.class
