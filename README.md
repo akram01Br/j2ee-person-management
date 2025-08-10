@@ -32,9 +32,4 @@ Author
 Akram Barhoumi
 Email: barhoumi.akram01@gmail.com
 
-Just save this as `README.md` in your project root, then:
 
-```bash
-git add README.md
-git commit -m "Add README"
-git push
